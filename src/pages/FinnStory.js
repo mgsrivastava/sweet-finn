@@ -120,7 +120,10 @@ import flopped_on_concrete from "../images/flopped_on_concrete.png";
 import licking_hydracare from "../images/licking_hydracare.png";
 import subaru_in_cove from "../images/subaru_in_cove.jpg";
 import last_night_with_me from "../images/last_night_with_me.jpg";
-
+import lamb_1 from "../images/hunter_of_ages/lamb_1.png";
+import potato_finn from "../images/master_of_disguise/potato_finn.jpg";
+import { Link } from "react-router-dom";
+import { PATHS } from "../paths";
 import React from "react";
 
 const HomePage = () => {
@@ -661,7 +664,18 @@ const HomePage = () => {
           page.
         </p>
         <br></br>
-        <p>(TODO: links to gallery)</p>
+        <br></br>
+        <h2>
+          <Link to={PATHS.HUNTER_OF_AGES}>Finn: Hunter of Ages</Link>
+        </h2>
+        <br></br>
+        <img className="gallery-feature-img" src={lamb_1} />
+        <br></br>
+        <h2>
+          <Link to={PATHS.MASTER_OF_DISGUISE}>Finn: Master of Disguise</Link>
+        </h2>
+        <br></br>
+        <img className="gallery-feature-img" src={potato_finn} />
         <br></br>
         <p>
           Eventually, Finn's kidney disease progressed into Stage 4 and his
