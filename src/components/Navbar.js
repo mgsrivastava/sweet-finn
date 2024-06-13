@@ -10,10 +10,10 @@ const Navbar = () => {
         <Link to={PATHS.STORY}>Finn's Story</Link>
       </li>
       <li>
-        <Link to={PATHS.GALLERY}>Gallery</Link>
+        <Link to={PATHS.GALLERY}>Gallery Features</Link>
       </li>
       <li>
-        <Link to={PATHS.PETTING_SIMULATOR}>Petting Simulator</Link>
+        <Link to={PATHS.MEMORIES}>Memories</Link>
       </li>
     </div>
   );
