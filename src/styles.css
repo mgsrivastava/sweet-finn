@@ -14,6 +14,7 @@
   text-align: center;
   max-width: 850px;
   margin: 40px auto;
+  background-color: rgb(219, 238, 239);
 }
 
 h1 {
@@ -55,7 +56,7 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
-  width: 750px;
+  max-width: 750px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -163,6 +164,9 @@ h1 {
 .header-img {
   display: block;
   max-width: 6%;
+  min-width: 100px;
+  width: auto;
+  height: auto;
 }
 
 .header-text {

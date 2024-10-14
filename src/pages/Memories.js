@@ -26,6 +26,18 @@ const Memories = () => {
           <br></br>
           <p>- Meghna</p>
         </div>
+        <div class="memory">
+          <p>
+            I have never been much of a pet person. After Alka and I finally
+            agreed to Meghna's repeated requests to get a cat in Jan 2011, I
+            went with Meghna to Wendell, NC to get Finn. Over the subsequent
+            days, weeks, months and years, Finn totally endeared himself even to
+            me! He was such a sweet and beautiful cat. I think he won the heart
+            of everyone that met him.
+          </p>
+          <br></br>
+          <p>- Manish</p>
+        </div>
       </div>
     </div>
   );
