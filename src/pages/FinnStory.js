@@ -616,6 +616,7 @@ const HomePage = () => {
         <p>She got him back though.</p>
         <br></br>
         <img className="standard-img" src={subaru_in_cove} />
+        <br></br>
         <p>
           Although Finn and Subaru didn't get past the point of uneasy
           tolerance, he did become very close with step-mother Nina.
