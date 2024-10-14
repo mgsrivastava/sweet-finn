@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sweet-finn/static/css/main.4fb0698d.css",
+    "main.css": "/sweet-finn/static/css/main.4d838669.css",
     "main.js": "/sweet-finn/static/js/main.e7cbec2b.js",
     "static/media/parents_visit_wallingford.jpg": "/sweet-finn/static/media/parents_visit_wallingford.e0e39516d7aeead51d13.jpg",
     "static/media/snowman_1.jpg": "/sweet-finn/static/media/snowman_1.16e4a9b6a2aa8c2e1f4d.jpg",
@@ -186,11 +186,11 @@
     "static/media/photoshoot_with_shiv_1.jpg": "/sweet-finn/static/media/photoshoot_with_shiv_1.54856cb2103ce93334d9.jpg",
     "static/media/photoshoot_with_shiv_2.jpg": "/sweet-finn/static/media/photoshoot_with_shiv_2.ad3f28237ba96eb5f5c1.jpg",
     "index.html": "/sweet-finn/index.html",
-    "main.4fb0698d.css.map": "/sweet-finn/static/css/main.4fb0698d.css.map",
+    "main.4d838669.css.map": "/sweet-finn/static/css/main.4d838669.css.map",
     "main.e7cbec2b.js.map": "/sweet-finn/static/js/main.e7cbec2b.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fb0698d.css",
+    "static/css/main.4d838669.css",
     "static/js/main.e7cbec2b.js"
   ]
 }
