@@ -49,6 +49,23 @@ h1 {
   margin-right: auto;
 }
 
+.small-img {
+  max-width: 75%;
+  max-height: 300;
+  display: block;
+  border-radius: 10%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mini-img {
+  max-width: 90%;
+  max-height: 170px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .multi-img {
   max-width: 50%;
 }
@@ -115,20 +132,94 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 10px;
+  gap: 25px;
   border-top: 10px solid black;
   padding: 20px 0px;
+  background-color: black;
 }
 
-.memory {
+.memory-red-large {
+  object-fit: cover;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  border-radius: 30px;
+  flex-basis: 600px;
+  padding: 25px;
+  background-color: cornsilk;
+  box-shadow: 0 0 20px 5px #e04855;
+}
+
+.memory-red {
   object-fit: cover;
   max-width: 100%;
   height: auto;
   vertical-align: middle;
   border-radius: 30px;
   flex-basis: 350px;
-  padding: 16px;
+  padding: 25px;
   background-color: cornsilk;
+  box-shadow: 0 0 20px 5px #e04855;
+}
+
+.memory-yellow {
+  object-fit: cover;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  border-radius: 30px;
+  flex-basis: 350px;
+  padding: 25px;
+  background-color: cornsilk;
+  box-shadow: 0 0 20px 5px #e0db48;
+}
+
+.memory-green {
+  object-fit: cover;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  border-radius: 30px;
+  flex-basis: 350px;
+  padding: 25px;
+  background-color: cornsilk;
+  box-shadow: 0 0 20px 5px #48e055;
+}
+
+.memory-blue {
+  object-fit: cover;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  border-radius: 30px;
+  flex-basis: 350px;
+  padding: 25px;
+  background-color: cornsilk;
+  box-shadow: 0 0 20px 5px #4870e0;
+}
+
+.memory-purple {
+  object-fit: cover;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  border-radius: 30px;
+  flex-basis: 350px;
+  padding: 25px;
+  background-color: cornsilk;
+  box-shadow: 0 0 20px 5px #c148e0;
+}
+
+.memory-purple-large {
+  object-fit: cover;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  border-radius: 30px;
+  flex-basis: 500px;
+  padding: 25px;
+  background-color: cornsilk;
+  box-shadow: 0 0 20px 5px #c148e0;
 }
 
 .navbar {
