@@ -234,6 +234,32 @@ const Memories = () => {
           <br></br>
           <p>- Nina</p>
         </div>
+        <div class="memory-yellow">
+          <p>
+            One of my cherished routines with Finn was bedtime at the Madison
+            Valley house. Our bedroom was downstairs from the living room, so to
+            get Finn to follow us down I'd call out with a "Finny!" and shake a
+            treat bag. He would come tearing down the stairs like clockwork,
+            dribbing down each step like an elongated mustelid. After jumping
+            onto the bed with us, Finn would receive two Tempatations treats as
+            his well-earned reward.
+          </p>
+          <br></br>
+          <p>-----</p>
+          <br></br>
+          <p>
+            It's now been two years of Finn-less days. We adopted new kittens in
+            the last year, Marcus and Bucatini. I often wonder how you'd
+            interact with them and if you guys would've been friends. I like to
+            imagine you as their uncle, playing with them and showing them how
+            to properly snuggle in the blankets. We all still miss you buddy.
+            Hope you're resting easy.
+          </p>
+          <br></br>
+          <p>- Meghna</p>
+          <br></br>
+          <img className="mini-img" src={cat_candle} />
+        </div>
       </div>
     </div>
   );
